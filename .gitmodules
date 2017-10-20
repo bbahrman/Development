@@ -7,3 +7,6 @@
 [submodule "my-angular-cli-app"]
 	path = my-angular-cli-app
 	url = https://github.com/bbahrman/my-angular-cli-app.git
+[submodule "scotchio-angular-routing"]
+	path = scotchio-angular-routing
+	url = https://github.com/bbahrman/scotchio-angular-routing.git
