@@ -1,9 +1,6 @@
 [submodule "sass-site"]
 	path = sass-site
 	url = https://github.com/bbahrman/sass-site
-[submodule "scotch-angular2-getting-started"]
-	path = scotch-angular2-getting-started
-	url = https://github.com/bbahrman/scotch-angular2-getting-started.git
 [submodule "my-angular-cli-app"]
 	path = my-angular-cli-app
 	url = https://github.com/bbahrman/my-angular-cli-app.git
